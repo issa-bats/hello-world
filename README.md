@@ -6,6 +6,6 @@ a place where i learn how to use github :)
 
 ## Favorite Things
 
-  *Favorite Food = Sushi
-  *Favorite Season = Spring
-  *Favorite Dessert = Mini Oreo Blast from Sonic OR Taiyaki
+  * Favorite Food = Sushi
+  * Favorite Season = Spring
+  * Favorite Dessert = Mini Oreo Blast from Sonic OR Taiyaki
